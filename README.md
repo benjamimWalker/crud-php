@@ -1,6 +1,6 @@
 # crud-php
 
-a really simple crud (CREATE, READ, UPDATE, DELETE) made with Php, MySql and a subtle dash of Bootstrap
+A really simple crud (CREATE, READ, UPDATE, DELETE) made with Php, MySql and a subtle dash of Bootstrap
 
 You can see the results visiting this website: http://benjamim-php-crud.rf.gd/
 
