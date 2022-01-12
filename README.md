@@ -1,2 +1,7 @@
 # crud-php
-crud (CREATE, READ, UPDATE, DELETE) realmente simples feito com Php, MySql e uma pitada sútil de Bootstrap
+
+a really simple crud (CREATE, READ, UPDATE, DELETE) made with Php, MySql and a subtle dash of Bootstrap
+
+You can see the results visiting this website: http://benjamim-php-crud.rf.gd/
+
+Feel free to mess with my database (since the password is in the code) and practice SQL injection too.
